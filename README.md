@@ -1,8 +1,11 @@
 # Lab Report: Threat Hunting and Telemetry Analysis Using Wazuh SIEM Dashboard Filters
 
 **Course / Module:** SIEM & Threat Hunting Operations
+
 **Target Environment:** Wazuh SIEM (`192.168.6.133`)
+
 **Monitored Agents:** `Windows_11` (Agent 002) & `Wazuh-Server` (Agent 000 / Manager)
+
 **Date of Execution:** September 24, 2026
 
 ---
