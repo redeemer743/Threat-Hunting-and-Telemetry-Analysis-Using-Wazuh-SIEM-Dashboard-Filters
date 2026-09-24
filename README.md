@@ -1,6 +1,4 @@
-# Lab Report: Threat Hunting and Telemetry Analysis Using Wazuh SIEM Dashboard Filters
-
-**Course / Module:** SIEM & Threat Hunting Operations
+# Threat Hunting and Telemetry Analysis Using Wazuh SIEM Dashboard Filters
 
 **Target Environment:** Wazuh SIEM (`192.168.6.133`)
 
